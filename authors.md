@@ -10,3 +10,6 @@
 * Nelle Varoquaux
 * Jessica Harvey
 * Arthur Read
+* Genevieve Buckley
+* Kerensa McElroy
+* Benjamin Schwessinger
