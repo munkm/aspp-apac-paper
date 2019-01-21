@@ -11,3 +11,7 @@
 * Lydia Knuefing
 * Natalie Tan
 * Danielle Su
+* Genevieve Buckley
+* Kerensa McElroy
+* Juan Nunez-Iglesias
+* Benjamin Schwessinger
