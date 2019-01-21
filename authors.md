@@ -8,3 +8,6 @@
 * Clare Sloggett
 * Jana Sperschneider
 * Nelle Varoquaux
+* Genevieve Buckley
+* Kerensa McElroy
+* Benjamin Schwessinger
