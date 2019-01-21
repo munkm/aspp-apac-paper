@@ -8,6 +8,12 @@
 * Clare Sloggett
 * Jana Sperschneider
 * Nelle Varoquaux
+* Lydia Knuefing
+* Natalie Tan
+* Danielle Su
+* Genevieve Buckley
+* Kerensa McElroy
+* Juan Nunez-Iglesias
 * Jessica Harvey
 * Arthur Read
 * Genevieve Buckley
