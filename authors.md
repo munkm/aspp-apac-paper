@@ -1,10 +1,13 @@
 ### Author list
-
+* Ramawatar Nagar
 * John Kirkham
 * Brianna Laugher
-* Madicken Munk 
+* Madicken Munk
 * Juan Nunez-Iglesias
 * Jenni Rinker
 * Clare Sloggett
 * Jana Sperschneider
 * Nelle Varoquaux
+* Genevieve Buckley
+* Kerensa McElroy
+* Benjamin Schwessinger
