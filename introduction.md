@@ -1,1 +1,1 @@
-Our paper focuses on practicing git in the context of a python summer school.
+this is a short intro.
